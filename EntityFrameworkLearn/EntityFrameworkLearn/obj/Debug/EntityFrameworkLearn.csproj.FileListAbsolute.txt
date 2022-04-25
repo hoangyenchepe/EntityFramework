@@ -1,0 +1,11 @@
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\bin\Debug\EntityFrameworkLearn.exe.config
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\bin\Debug\EntityFrameworkLearn.exe
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\bin\Debug\EntityFrameworkLearn.pdb
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.csproj.AssemblyReference.cache
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.csproj.SuggestedBindingRedirects.cache
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.Form1.resources
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.Properties.Resources.resources
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.csproj.GenerateResource.cache
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.csproj.CoreCompileInputs.cache
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.exe
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.pdb

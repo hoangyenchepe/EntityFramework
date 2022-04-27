@@ -9,3 +9,8 @@ C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLe
 C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.csproj.CoreCompileInputs.cache
 C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.exe
 C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.pdb
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\bin\Debug\EntityFramework.dll
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\bin\Debug\EntityFramework.xml
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.csproj.CopyComplete

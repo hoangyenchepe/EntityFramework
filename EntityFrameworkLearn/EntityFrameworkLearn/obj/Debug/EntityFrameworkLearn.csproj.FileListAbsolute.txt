@@ -14,3 +14,4 @@ C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLe
 C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\bin\Debug\EntityFramework.xml
 C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\bin\Debug\EntityFramework.SqlServer.xml
 C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.csproj.CopyComplete
+C:\Yen\Personal\Code\Demo\EntityFramework\EntityFrameworkLearn\EntityFrameworkLearn\obj\Debug\EntityFrameworkLearn.Migrations.AddStatustoDB.resources
